@@ -1,7 +1,16 @@
 # mr-real-inmobiliaria-web
 Welcome to mr-inmobiliaria web app!
-If you are reading this, you probably need to work on or modify this project, please read carefully this README before starting
+If you are reading this, you probably need to work on or modify this project, please read carefully this README before starting. 
 
+## About code: ##
+This project was built using:
+* **Vue.js**: You can read the documentation [here](https://v3.vuejs.org/guide/introduction.html)
+>This project uses Vue.js version 3
+
+* **TailwindCSS**: Read the documentation [here](https://tailwindcss.com/docs/installation)
+
+* **Firebase**: Read the documentation [here](https://firebase.google.com/docs/web/)
+> **Important**: This project uses the version 8.x.x of firebase, ensure you look on the documentation for the v8, not v9
 ## Requirements and download the project
 These are the requirements you must have covered to run and modify the project properly:
 
