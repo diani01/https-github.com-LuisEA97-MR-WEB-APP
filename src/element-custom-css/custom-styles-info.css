@@ -1,0 +1,8 @@
+.el-collapse-item__header {
+    background-color: rgb(15, 35, 53) !important;
+    color: #e6e6e6 !important;
+    padding: 0 0.5rem !important;
+    font-weight: 600 !important;
+    font-size: 1rem !important;
+    line-height: 1.5rem !important;
+}

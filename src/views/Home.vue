@@ -1,18 +1,33 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Hero/>
+    <General/>
   </div>
 </template>
 
+<style>
+  .home {
+    scroll-behavior: smooth;
+  }
+</style>
+
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import Hero from '@/components/home/Hero.vue'
+import General from '@/components/home/General-info.vue'
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    Hero,
+    General
+  },
+  data () {
+    return {
+    }
+  },
+  mounted () {
+    window.scrollTo(0, 0)
   }
 }
 </script>

@@ -1,0 +1,55 @@
+@tailwind base;
+
+@layer base {
+    body {
+        font-family: 'Noto Sans', sans-serif;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Raleway', sans-serif;
+    }
+
+    h1 {
+        font-weight: 900;
+        font-size: 3.2em;
+    }
+
+    h2 {
+        font-weight: 700;
+        font-size: 2.6em;
+    }
+
+    h3 {
+        font-weight: 500;
+        font-size: 2em;
+    }
+
+    p {
+        font-size: 1.5em;
+    }
+}
+
+@tailwind components;
+
+@tailwind utilities;
+
+.brand-color {
+    background-color: rgb(15, 35, 53);
+}
+
+.brand-text {
+    color: rgb(15, 35, 53);
+}
+
+.wa-color {
+    color: #00bb2d;
+}
+
+.insta-color {
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

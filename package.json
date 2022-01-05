@@ -1,16 +1,42 @@
 {
-  "name": "mr-web-v3",
+  "name": "firebase",
   "version": "0.1.0",
   "private": true,
+  "description": "## Project setup ``` npm install ```",
+  "author": "",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "fix": "npx vue-cli-service lint --fix"
   },
+  "main": ".eslintrc.js",
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.11.3",
+    "@headlessui/vue": "^0.3.0",
+    "@melmacaluso/vue-modal": "^2.1.0",
+    "@popperjs/core": "^2.6.0",
+    "@tailwindcss/forms": "^0.2.1",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.21.1",
+    "compression-webpack-plugin": "^6.1.1",
     "core-js": "^3.6.5",
+    "element-plus": "^1.0.2-beta.28",
+    "emailjs-com": "^2.6.4",
+    "firebase": "^8.2.4",
+    "jshint": "^2.12.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
+    "v-calendar": "^3.0.0-alpha.3",
+    "v-calendar-3": "git+https://github.com/nathanreyes/vue3-component-library.git",
     "vue": "^3.0.0",
+    "vue-cli-plugin-compression": "^1.1.3",
+    "vue-currency-input": "^2.0.0-rc.1",
+    "vue-gallery-slideshow": "^1.5.2",
+    "vue-picture-swipe": "^2.0.2",
     "vue-router": "^4.0.0-0",
+    "vue-stepper": "^1.4.2",
+    "vuecidity": "^1.0.7",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
@@ -27,6 +53,9 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
-    "eslint-plugin-vue": "^7.0.0-0"
-  }
+    "eslint-plugin-vue": "^7.0.0-0",
+    "vue-cli-plugin-element-plus": "0.0.13",
+    "vue-cli-plugin-tailwind": "~2.0.1"
+  },
+  "license": "ISC"
 }
