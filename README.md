@@ -5,8 +5,8 @@ If you are reading this, you probably need to work on or modify this project, pl
 ## Requirements and download the project
 These are the requirements you must have covered to run and modify the project properly:
 
-* **Git** Required to download the project files. You can download it [here for windows](https://gitforwindows.org/) or if you're on Mac or Linux, follow [this guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* **Node** Required to run this project. You can download it [here](https://nodejs.org/es/download/) - for Windows, Mac or Linux
+* **Git**: Required to download the project files. You can download it [here for windows](https://gitforwindows.org/) or if you're on Mac or Linux, follow [this guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* **Node**: Required to run this project. You can download it [here](https://nodejs.org/es/download/) - for Windows, Mac or Linux
 
 ### Once you have covered these two requirements, you need to clone this repo. For doing that, create a new folder in your computer, open git console, then run: ###
 
