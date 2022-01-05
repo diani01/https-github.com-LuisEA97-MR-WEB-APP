@@ -2,7 +2,7 @@
 Welcome to mr-inmobiliaria web app!
 If you are reading this, you probably need to work on or modify this project, please read carefully this README before starting. 
 
->**Important**: It makes sense to keep this README in english because all the documentation for the technologies that the project uses are mainly written in english and could not be fully available in spanish 
+>**Important**: It makes sense to keep this README in english because all the documentation for the technologies that the project uses are mainly written in english and could not to be fully available in spanish 
 
 ## About code: ##
 This project was built using:
