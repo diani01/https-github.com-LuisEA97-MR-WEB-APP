@@ -43,7 +43,7 @@ npm run build
 ```
 This will create a new folder called ***dist***, wich contains all the files you need for production
 
-### Lints and fixes files
+### Fix most of the typing errors in your project
 If you save something with errors in your code, the first way to fix most of the errors in the project would be running this command:  
 ```
 npm run fix
