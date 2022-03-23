@@ -67,14 +67,14 @@
           </div>
           <div class="rounded-lg border border-gray-200 mb-6 bg-gray-50 p-8 md:px-12 md:py-10 w-full xl:w-1/2 mx-0 xl:mx-3">
             <div class="pb-3 text-left border-b border-gray-200">
-                <h4 class="raleway font-medium text-3xl">MR Inmobiliaria</h4>
+                <h4 class="raleway font-medium text-3xl">AXER GI Grupo Inmobiliario</h4>
             </div>
             <div class="text-left lato">
                 <p class="inline-block py-2 text-xl font-light">Agencia de bienes raíces</p>
                 <ul>
                     <li class="flex mb-4">
                         <i class="fas fa-map-marker-alt text-red-700 text-xl self-center pr-4"></i>
-                        <span class="font-medium text-lg leading-tight">Porfirio Díaz 1301, Barrio Juárez Nte., 70300 Matías Romero Avendaño, Oax.</span>
+                        <span class="font-medium text-lg leading-tight">Calle Allende #708, Col. Barrio Juárez Sur. CP 70300 Matías Romero Avendaño, Oax.</span>
                     </li>
                     <li class="flex mb-4">
                         <i class="fas fa-clock text-blue-700 text-xl self-center pr-4"></i>
